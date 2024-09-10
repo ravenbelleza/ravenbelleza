@@ -1,4 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/16932531/ReadMe.md)# 💫 About Me:
+(https://github.com/user-attachments/files/16932531/ReadMe.md)# 💫 About Me:
 🔭 I’m currently study at CS50's Web Programming.<br>🌱 I’m currently learning Django, Python and Java.
 
 
